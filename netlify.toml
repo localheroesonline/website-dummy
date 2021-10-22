@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/oauth/google"
-to = "com.LHConsumerApp.live://"
+from = "/oauth/google/"
+to = "com.LHConsumerApp.live://google/"
 
