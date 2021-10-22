@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/oauth/google/*"
+to = "com.LHConsumerApp.live://:splat"
+status = 302
+
