@@ -1,4 +1,6 @@
+# The destination for a redirect must include a host part, or the query-string is not appended
+# so we're just using 'oauth' as a host part, and '/google' as the path.
 [[redirects]]
 from = "/oauth/google/"
-to = "com.LHConsumerApp.live://google/"
+to = "com.LHConsumerApp.live://oauth/google/"
 
