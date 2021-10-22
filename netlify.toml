@@ -1,15 +1,16 @@
 [[redirects]]
 from = "https://live.localheroesonline.com/oauth/google/*"
 to = "com.LHConsumerApp.live://:splat"
-status = 301
+
+[[redirects]]
+from = "https://live.localheroesonline.com/oauth/google"
+to = "com.LHConsumerApp.live://"
 
 [[redirects]]
 from = "https://staging.localheroesonline.com/oauth/google/*"
 to = "com.LHConsumerApp.test://:splat"
-status = 301
 
 [[redirects]]
 from = "https://dev.localheroesonline.com/oauth/google/*"
 to = "com.LHConsumerApp.dev://:splat"
-status = 301
 
