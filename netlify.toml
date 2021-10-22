@@ -1,15 +1,5 @@
 [[redirects]]
-from = "/oauth/google/*"
-to = "com.LHConsumerApp.live://:splat"
+from = "/oauth/google"
+to = "com.LHConsumerApp.live://"
 status = 302
-
-[[redirects]]
-from = "/oauth/google*"
-to = "com.LHConsumerApp.live://:splat"
-status = 302
-
-#[[redirects]]
-#from = "/*"
-#to = "https://www.localheroesonline.com"
-#status = 302
 
