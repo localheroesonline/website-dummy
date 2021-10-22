@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/oauth/google"
-to = "com.LHConsumerApp.live://"
+from = "https://live.localheroesonline.com/oauth/google/*"
+to = "com.LHConsumerApp.live://:splat"
 status = 301
 
