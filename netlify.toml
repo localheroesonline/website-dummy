@@ -1,16 +1,12 @@
 [[redirects]]
-from = "https://live.localheroesonline.com/oauth/google/*"
-to = "com.LHConsumerApp.live://:splat"
-
-[[redirects]]
 from = "https://live.localheroesonline.com/oauth/google"
 to = "com.LHConsumerApp.live://"
 
 [[redirects]]
-from = "https://staging.localheroesonline.com/oauth/google/*"
-to = "com.LHConsumerApp.test://:splat"
+from = "https://staging.localheroesonline.com/oauth/google"
+to = "com.LHConsumerApp.test://"
 
 [[redirects]]
-from = "https://dev.localheroesonline.com/oauth/google/*"
-to = "com.LHConsumerApp.dev://:splat"
+from = "https://dev.localheroesonline.com/oauth/google"
+to = "com.LHConsumerApp.dev://"
 
