@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/oauth/google"
 to = "com.LHConsumerApp.live://"
-status = 302
+status = 301
 
