@@ -4,3 +4,8 @@
 from = "/oauth/google/"
 to = "com.LHConsumerApp.live://oauth/google/"
 
+[[redirects]]
+from = "https://demo.localheroesonline.com/*"
+to = "https://localheroesonline.com/:splat"
+
+
