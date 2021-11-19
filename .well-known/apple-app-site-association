@@ -2,7 +2,10 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "3Q664D87NK.com.LHConsumerApp.live" ],
+             "appIDs": [
+		"3Q664D87NK.com.LHConsumerApp",
+		"3Q664D87NK.com.LHConsumerApp.live"
+	     ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -46,10 +49,16 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "3Q664D87NK.com.LHConsumerApp.live" ]
+      "apps": [
+	"3Q664D87NK.com.LHConsumerApp",
+	"3Q664D87NK.com.LHConsumerApp.live"
+      ]
    },
 
     "appclips": {
-        "apps": ["3Q664D87NK.com.LHConsumerApp.live.Clip"]
+        "apps": [
+	    "3Q664D87NK.com.LHConsumerApp.Clip",
+	    "3Q664D87NK.com.LHConsumerApp.live.Clip"
+	]
     }
 }
