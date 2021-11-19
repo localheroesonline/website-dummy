@@ -8,4 +8,8 @@ to = "com.LHConsumerApp.live://oauth/google/"
 from = "https://demo.localheroesonline.com/*"
 to = "https://localheroesonline.com/:splat"
 
+[[redirects]]
+from = "https://staging.localheroesonline.com/*"
+to = "https://localheroesonline.com/:splat"
+
 
